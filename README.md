@@ -41,10 +41,10 @@ This will generate a `data.db` file (which we will update using migrations) and 
             + f"updated_at={self.updated_at}," \
             + f" >"
 ```
-    
+
 - Migration 5: Add phone number column
     - Add a new column called "phone_number" to the "user" table to store user contact phone numbers.
 - Migration 6: Add a new table, "Pet", that is based on the following:
-    ![Pet Entity](https://github.com/codetombomb/acc-fs-code-practice-creating-migrations/main/images/pet-entiry.png)
+    ![Pet Entity](https://raw.githubusercontent.com/codetombomb/acc-fs-code-practice-creating-migrations/main/images/pet-entity.png)
 
 
