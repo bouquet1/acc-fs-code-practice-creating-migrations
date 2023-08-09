@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Clone this repository and `cd` into it. 
+Fork and clone this repository then `cd` into it. 
 
 In the terminal, run:
 - `pipenv install && pipenv shell`
